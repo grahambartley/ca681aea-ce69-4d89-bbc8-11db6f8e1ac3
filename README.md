@@ -1,1 +1,0 @@
-The first website I created as part of my sessions with Awesome Dojo!
